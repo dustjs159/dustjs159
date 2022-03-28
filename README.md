@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=YEONSUN%20YOON&fontSize=70&fontColor=000080)
 
-<center>## 💻  My Tech 💻</center>
+## 💻  My Tech 💻
 
 ### Language : ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ### Operation System : ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
